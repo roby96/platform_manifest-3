@@ -38,11 +38,13 @@
 <project path="system/sepolicy" name="android_system_sepolicy" remote="rr" />
 <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="rr" />
 <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="rr" />
+<project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="rr" />
 <project path="device/qcom/sepolicy-legacy" name="android_device_qcom_sepolicy-legacy" remote="rr" />
 <project path="frameworks/native" name="frameworks_native" remote="rr" />
 <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="rr" />
 <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="rr" />
 <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="rr" />
+<project path="frameworks/support/lottie" name="android_frameworks_support_lottie" remote="rr" />
 <project path="hardware/lineage/interfaces" name="android_hardware_lineage_interfaces" remote="rr" />
 
 </manifest>
